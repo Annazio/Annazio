@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my repositories!
+
+Codewars progress:
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)
 <!--
 **Annazio/Annazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

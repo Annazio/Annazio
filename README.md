@@ -2,6 +2,8 @@
 
 Welcome to my repositories!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annazio)](https://github.com/Annazio/github-readme-stats)
+
 Codewars progress:
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)
 <!--

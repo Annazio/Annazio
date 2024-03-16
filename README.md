@@ -6,6 +6,11 @@
 
 ### Codewars progress:
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)
+
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
 <!--
 **Annazio/Annazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

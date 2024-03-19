@@ -3,7 +3,7 @@
 ### Welcome to my repositories!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annazio&layout=compact)](https://github.com/Annazio/github-readme-stats)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annazio&show_icons=true&locale=en&layout=compact" /></p>
+
 
 ### Codewars progress:
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)
@@ -32,7 +32,7 @@
 
 <!--
 **Annazio/Annazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annazio&show_icons=true&locale=en&layout=compact" /></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

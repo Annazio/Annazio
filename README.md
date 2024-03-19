@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annazio&layout=compact)](https://github.com/Annazio/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annazio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annazio&layout=compact&theme=vision-friendly-dark)](https://github.com/Annazio/github-readme-stats)
 
 ### Codewars progress:
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)

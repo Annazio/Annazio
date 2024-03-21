@@ -2,6 +2,7 @@
 
 ### Welcome to my repositories!
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annazio&show_icons=true&locale=en&layout=compact" /></p>
 
 
 ### Codewars progress:
@@ -35,7 +36,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annazio&layout=compact)](https://github.com/Annazio/github-readme-stats)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Annazio&show_icons=true&locale=en&layout=compact" /></p>
 
 Here are some ideas to get you started:
 

@@ -9,7 +9,7 @@
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)
 
 
-### Check my [freeCodeCampProfile](https://www.freecodecamp.org/fcc2fae9cdb-6635-4d47-89ca-97cdfc34df1f){:target="_blank"}
+### Check my [freeCodeCampProfile](https://www.freecodecamp.org/fcc2fae9cdb-6635-4d47-89ca-97cdfc34df1f)
 
 
 ### Languages and tools

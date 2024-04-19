@@ -8,6 +8,8 @@
 ### Codewars progress:
 ![codewars](https://www.codewars.com/users/Annazio/badges/small)
 
+### ![freeCodeCampProfile](https://www.freecodecamp.org/fcc2fae9cdb-6635-4d47-89ca-97cdfc34df1f)
+
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="40" height="40"/>&nbsp;
